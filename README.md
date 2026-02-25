@@ -11,11 +11,11 @@
 ![Focus](https://img.shields.io/badge/Focus-Backend_Development-blueviolet?style=flat-square&logo=server)
 ![Location](https://img.shields.io/badge/Location-Cotia,_SP-ff5722?style=flat-square&logo=google-maps)
 
-### ❝ Primeiro resolva o problema. Depois escreva o código. ❞
-
 ---
 
-## 👨‍💻 Sobre Mim
+### ❝ Primeiro resolva o problema. Depois escreva o código. ❞
+
+👨‍💻 Sobre Mim
 
 Sou um **Desenvolvedor Backend** com foco em construir sistemas funcionais, escaláveis e bem estruturados. Tenho experiência com desenvolvimento web, com forte interesse no lado do servidor — lógica de negócio, banco de dados e APIs.
 
