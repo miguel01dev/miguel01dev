@@ -1,3 +1,5 @@
+<div align="center">
+
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=336699&height=220&section=header&text=Miguel%20Nunes%20Silvestre&fontSize=50&fontColor=ffffff)](https://capsule-render.vercel.app/api?type=waving&color=336699&height=220&section=header&text=Miguel%20Nunes%20Silvestre&fontSize=50&fontColor=ffffff)
 
 ### Backend Developer | PHP & Python | MySQL | JavaScript
@@ -12,6 +14,8 @@
 ---
 
 ### ❝ Código limpo, sistemas robustos e aprendizado contínuo. ❞
+
+</div>
 
 ## 👨‍💻 Sobre Mim
 
@@ -56,6 +60,8 @@ Minha trajetória é movida pela curiosidade e pela vontade de transformar ideia
 
 ---
 
+<div align="center">
+
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguel01dev&theme=tokyonight)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguel01dev&theme=tokyonight)
 [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguel01dev&theme=tokyonight)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguel01dev&theme=tokyonight)
 
@@ -64,3 +70,5 @@ Minha trajetória é movida pela curiosidade e pela vontade de transformar ideia
 **– John Johnson**
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=336699&height=120&section=footer)](https://capsule-render.vercel.app/api?type=waving&color=336699&height=120&section=footer)
+
+</div>
