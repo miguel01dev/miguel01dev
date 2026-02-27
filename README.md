@@ -4,12 +4,12 @@
 
 ### Backend Developer | PHP & Python | MySQL | JavaScript
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINK-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-silvestre-180b69299/)
 [![Email](https://img.shields.io/badge/Email-minunessilvestre@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minunessilvestre@gmail.com)
 
 [![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-2ea44f?style=flat-square&logo=github)](https://github.com/miguel01dev)
 [![Focus](https://img.shields.io/badge/Focus-Backend_Development-blueviolet?style=flat-square&logo=server)](https://github.com/miguel01dev)
-[![Location](https://img.shields.io/badge/Cotia-SP-ff5722?style=flat-square&logo=google-maps)](https://github.com/miguel01dev)
+[![Location](https://img.shields.io/badge/Location-Cotia,_SP-ff5722?style=flat-square&logo=google-maps)](https://github.com/miguel01dev)
 
 ---
 
@@ -38,26 +38,12 @@ Minha trajetória é movida pela curiosidade e pela vontade de transformar ideia
 
 ## 🏆 Projetos
 
-### 🔧 **Projeto 1** - *Breve descrição*
-
-> **Objetivo:** Descreva aqui o problema que o projeto resolve.
->
-> **Dinâmica:** Explique como o sistema funciona, as principais funcionalidades e o fluxo de dados.
-
-- **Techs:** `PHP` `MySQL` `JavaScript` `HTML` `CSS`
-- **Arquitetura:** MVC
-- **Aprendizado:** O que você aprendeu construindo esse projeto.
-
+### 🔧 **Em breve- Projetos em desenvolvimento.*
 ---
 
 ## 📜 Formação & Certificações
 
-*Para lista completa, visite meu [LinkedIn](https://linkedin.com/in/SEU-LINK-AQUI).*
-
-- 🎓 **[Sua formação aqui]** - (ano)
-- 📜 **[Certificação 1]** - (plataforma / ano)
-- 📜 **[Certificação 2]** - (plataforma / ano)
-
+*Em breve esta seção estará atualizada com minha formação e certificações.*
 ---
 
 <div align="center">
