@@ -38,12 +38,14 @@ Minha trajetória é movida pela curiosidade e pela vontade de transformar ideia
 
 ## 🏆 Projetos
 
-### 🔧 **Em breve- Projetos em desenvolvimento.*
+🔧 *Em breve- Projetos em desenvolvimento.*
+
 ---
 
 ## 📜 Formação & Certificações
 
 *Em breve esta seção estará atualizada com minha formação e certificações.*
+
 ---
 
 <div align="center">
